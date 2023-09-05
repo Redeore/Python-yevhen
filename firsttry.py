@@ -10,6 +10,6 @@ def data():
 
 fetchedData=data()
 
-
+print("hello world")
 
 print(fetchedData)
