@@ -10,4 +10,5 @@ def data():
 
 fetchedData=data()
 
+
 print(fetchedData)
