@@ -12,4 +12,5 @@ fetchedData=data()
 
 print("hello world")
 print("blbl")
+print("qua")
 print(fetchedData)
